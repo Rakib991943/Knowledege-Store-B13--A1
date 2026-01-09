@@ -54,6 +54,7 @@ nav ul li a{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 3px;
 }
 .dot2{
     width: 10px;
@@ -219,6 +220,7 @@ font-weight: 700;
     height: 385px;
     background-color: #F7F6F2;
     margin: 0 auto;
+    border-radius: 15px;
     
 }
 .thinkTitle{
@@ -240,4 +242,40 @@ text-align: center;
 }
 .thinkMore{
     padding: 80px;
+}
+
+footer{
+
+    height: 350px;
+    margin-top: 30px;
+    background:rgba(0, 25, 49, 1)
+}
+.footer1{
+    display: flex;
+    justify-content: space-between;
+    padding: 120px;
+}
+.social{
+    margin-bottom: 10px;
+    color: white;
+}
+.icon{
+   padding: 4px;
+    background: white;
+    padding: 3px;
+    border-radius: 50%;
+    margin-left: 5px;
+ 
+}
+
+.horizontal{
+    width: 1300px;
+    margin: 0 auto;
+}
+.copy{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+   margin-bottom: 20px;
+    
 }
