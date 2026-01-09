@@ -174,3 +174,42 @@ font-weight: 700;
     margin-top: 4px;
     margin-bottom: 5px;
 }
+
+.brainSection{
+    width: 1300px;
+    margin: 0 auto;
+    margin-top: 30px;
+    display: flex;
+    padding: 40px;
+    gap: 15px;
+   
+}
+.solution{
+    color: #30B868;
+    margin-bottom: 15px;
+}
+.braineTitle{
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.squarebtn{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: green;
+    padding: 5px;
+   
+}
+.squarebtn i{
+    color: white;
+}
+.checkbox{
+    display: flex;
+    margin-top: 20px;
+   align-items: center;
+    gap: 6px;
+}
+.checkboxSection{
+    margin-top: 60px;
+}
