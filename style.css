@@ -213,3 +213,31 @@ font-weight: 700;
 .checkboxSection{
     margin-top: 60px;
 }
+.thinkSection{
+    width: 1300px;
+    margin-top: 20px;
+    height: 385px;
+    background-color: #F7F6F2;
+    margin: 0 auto;
+    
+}
+.thinkTitle{
+text-align: center;
+font-size: 40px;
+font-weight: bold;
+margin-bottom: 10px;
+}
+.thinkNote1{
+text-align: center;
+}
+.thinkNote2{
+text-align: center;
+}
+.arrowbtn{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.thinkMore{
+    padding: 80px;
+}
