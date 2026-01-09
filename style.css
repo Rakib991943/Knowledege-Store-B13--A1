@@ -74,6 +74,10 @@ nav ul li a{
     outline: none;
     margin: 0 auto;
     background:white;
+    cursor: pointer;
+}
+.earlybtn:hover{
+    background: pink;
 }
 .Access{
     color: rgb(63, 228, 63);
@@ -120,3 +124,53 @@ nav ul li a{
     border: 1px solid white;
 }
 
+.noteTitle1{
+font-style: Bold;
+text-align: center;
+margin-top: 10px;
+font-size: 48px;
+font-weight: 700; 
+}
+.note{
+    text-align: center;
+    margin-top: 10px;
+}
+.img1{
+    background: rgba(249, 85, 85, 1);
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    margin-bottom: 5px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    gap: 20px;
+}
+.cardItem{ 
+    width: 325px;
+    height: 200px;
+    padding-top: 40px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.06);
+    background: rgba(255, 255, 255, 1);
+}
+
+.noteSection{
+    margin-top: 20px;
+    width: 1300px;
+    margin:  0 auto;
+ 
+}
+.notetitle{
+    font-size: 25px;
+    margin-top: 4px;
+    margin-bottom: 5px;
+}
